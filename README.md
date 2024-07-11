@@ -84,12 +84,12 @@
 
 - _**RN019**_  Dados_fornecedor: cod, endereco_fornecedor, numero_fornecedor, nome
 
-- _**RNF001**_ o sistema deve ter suas telas projetadas no FIGMA
+- _**RNF001**_ - o sistema deve ter suas telas projetadas no FIGMA
 
-- _**RNF002**_ o sistema deve ser uma aplicacao WEB
+- _**RNF002**_ - o sistema deve ser uma aplicacao WEB
 
-- _**RNF003**_ o sistema deve ser responsivo
+- _**RNF003**_ - o sistema deve ser responsivo
 
-- _**RNF004**_ o sistema deve conter botao de acessibilidade
+- _**RNF004**_ - o sistema deve conter botao de acessibilidade
 
-- _**RNF005**_ o sistema deve ter seu banco projetado no mySQL
+- _**RNF005**_ - o sistema deve ter seu banco projetado no mySQL
