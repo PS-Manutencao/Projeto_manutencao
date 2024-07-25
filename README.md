@@ -10,7 +10,7 @@
 
 - **RF002** - o sistema deve manter _**orçamento**_
 
-- _**RN002**_ - Dados-orcamento: cod, valor, data-emissao, pecas-usadas
+- _**RN002**_ - Dados-orcamento: cod, valor, data-emissao, pecas-usadas, cliente
 
 - **RF003** - o sistema deve manter _**serviço de manutenção**_
 
@@ -34,11 +34,11 @@
 
 - **RF008** - o sistema deve manter _**status do serviço**_
 
-- _**RN008**_ - Dados_status-servico: cod, status
+- _**RN008**_ - Dados_status-servico: cod, status, cliente, orcamento
 
 - _**RF009**_ - o sistema deve manter _**peças usadas**_
 
-- _**RN009**_ Dados_pecas-usadas: cod, modelo, quantidade
+- _**RN009**_ Dados_pecas-usadas: cod, modelo, quantidade, valor
 
 - _**RF010**_ - o sistema deve manter _**relatório**_
 
