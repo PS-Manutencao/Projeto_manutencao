@@ -42,7 +42,7 @@
 
 - _**RF010**_ - o sistema deve manter _**relatório**_
 
-- _**RN010**_ - Dados_relatiorio: cod, status-servico, conversao de orcamento, peca-usadas
+- _**RN010**_ - Tipos_relatorios: Clientes, Financeiro, Serviços, Equipamentos
 
 - _**RF011**_ - o sistema deve identificar _**principais clientes**_
 
