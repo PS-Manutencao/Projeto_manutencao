@@ -1,6 +1,11 @@
 <script setup>
 import inputPasswordComp from '@/components/inputs/inputPasswordComp.vue';
 import inputTextComp from '@/components/inputs/inputTextComp.vue';
+import { useRouter } from 'vue-router';
+const route = useRouter()
+function verificar(){
+    route.push('/clientes')
+}
 </script>
 
 <template>
@@ -16,7 +21,7 @@ import inputTextComp from '@/components/inputs/inputTextComp.vue';
             <inputTextComp content="Código do profissional" />
             <inputPasswordComp/>
             <div class="self-end">
-                <input type="submit" value="Acessar" class="submitButton">
+                <input type="submit" value="Acessar" class="submitButton" @click="verificar()">
             </div>
         </form>
     </div>
