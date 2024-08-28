@@ -21,7 +21,7 @@ function verificar(){
             <inputTextComp content="Código do profissional" />
             <inputPasswordComp/>
             <div class="self-end">
-                <input type="submit" value="Acessar" class="submitButton" @click="verificar()">
+                <input type="submit" value="Acessar" class="submitButton" @click="verificar">
             </div>
         </form>
     </div>
