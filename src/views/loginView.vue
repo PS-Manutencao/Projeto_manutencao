@@ -18,7 +18,7 @@ function verificar(){
             <div class="text-center my-28">
                 <h1 class="font-bold text-5xl">Entrar</h1>
             </div>
-            <inputTextComp content="Código do profissional" />
+            <inputTextComp content="Código do profissional" max=10 />
             <inputPasswordComp/>
             <div class="self-end">
                 <input type="submit" value="Acessar" class="submitButton" @click="verificar">

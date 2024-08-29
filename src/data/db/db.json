@@ -1,0 +1,1078 @@
+{
+    "acessorios": [
+        {
+            "dadoSecundario": "Fone de Ouvido",
+            "dadoPrimario": "Fornecedor G",
+            "dadoTerciario": "acessorio",
+            "valor": 75.00,
+            "id": "P007",
+            "dadoQuartenario": 7
+        },
+        {
+            "dadoSecundario": "Carregador Sem Fio",
+            "dadoPrimario": "Fornecedor DD",
+            "dadoTerciario": "acessorio",
+            "valor": 200.00,
+            "id": "P030",
+            "dadoQuartenario": 7
+        },
+        {
+            "dadoSecundario": "Proteção de Tela",
+            "dadoPrimario": "Fornecedor CC",
+            "dadoTerciario": "acessorio",
+            "valor": 60.00,
+            "id": "P029",
+            "dadoQuartenario": 11
+        },
+        {
+            "dadoSecundario": "Traseira de Capa",
+            "dadoPrimario": "Fornecedor W",
+            "dadoTerciario": "acessorio",
+            "valor": 80.00,
+            "id": "P023",
+            "dadoQuartenario": 10
+        },
+        {
+            "dadoSecundario": "Chip de Memória",
+            "dadoPrimario": "Fornecedor P",
+            "dadoTerciario": "acessorio",
+            "valor": 160.00,
+            "id": "P016",
+            "dadoQuartenario": 7
+        },
+        {
+            "dadoSecundario": "Teclado",
+            "dadoPrimario": "Fornecedor AA",
+            "dadoTerciario": "acessorio",
+            "valor": 85.00,
+            "id": "P027",
+            "dadoQuartenario": 9
+        },
+        {
+            "dadoSecundario": "Fita de Conexão",
+            "dadoPrimario": "Fornecedor Z",
+            "dadoTerciario": "acessorio",
+            "valor": 70.00,
+            "id": "P026",
+            "dadoQuartenario": 5
+        },
+        {
+            "dadoSecundario": "Carcaça",
+            "dadoPrimario": "Fornecedor O",
+            "dadoTerciario": "acessorio",
+            "valor": 220.00,
+            "id": "P015",
+            "dadoQuartenario": 6
+        }
+    ],
+    "clientes": [
+        {
+            "dadoPrimario": "João Silva",
+            "dadoQuartenario": "C001",
+            "dadoTerciario": "123.456.789-00",
+            "dadoSecundario": "123456789",
+            "data_de_cadastro": "2023-01-15",
+            "endereco": "Rua A, 123, São Paulo, SP",
+            "codigo_orcamento": "01"
+        },
+        {
+            "dadoPrimario": "Maria Oliveira",
+            "dadoQuartenario": "C002",
+            "dadoTerciario": "987.654.321-00",
+            "dadoSecundario": "987654321",
+            "data_de_cadastro": "2023-02-20",
+            "endereco": "Rua B, 456, Rio de Janeiro, RJ",
+            "codigo_orcamento": "02"
+        },
+        {
+            "dadoPrimario": "Carlos Souza",
+            "dadoQuartenario": "C003",
+            "dadoTerciario": "456.789.123-00",
+            "dadoSecundario": "456789123",
+            "data_de_cadastro": "2023-03-10",
+            "endereco": "Rua C, 789, Belo Horizonte, MG",
+            "codigo_orcamento": "03"
+        },
+        {
+            "dadoPrimario": "Ana Costa",
+            "dadoQuartenario": "C004",
+            "dadoTerciario": "321.654.987-00",
+            "dadoSecundario": "321654987",
+            "data_de_cadastro": "2023-04-05",
+            "endereco": "Rua D, 101, Curitiba, PR"
+        },
+        {
+            "dadoPrimario": "Pedro Lima",
+            "dadoQuartenario": "C005",
+            "dadoTerciario": "654.321.987-00",
+            "dadoSecundario": "654321987",
+            "data_de_cadastro": "2023-05-12",
+            "endereco": "Rua E, 202, Salvador, BA",
+            "codigo_orcamento": "04"
+        },
+        {
+            "dadoPrimario": "Patricia Almeida",
+            "dadoQuartenario": "C006",
+            "dadoTerciario": "789.123.456-00",
+            "dadoSecundario": "789123456",
+            "data_de_cadastro": "2023-06-18",
+            "endereco": "Rua F, 303, Fortaleza, CE"
+        },
+        {
+            "dadoPrimario": "Ricardo Pereira",
+            "dadoQuartenario": "C007",
+            "dadoTerciario": "321.987.654-00",
+            "dadoSecundario": "321987654",
+            "data_de_cadastro": "2023-07-25",
+            "endereco": "Rua G, 404, Recife, PE",
+            "codigo_orcamento": "05"
+        },
+        {
+            "dadoPrimario": "Juliana Santos",
+            "dadoQuartenario": "C008",
+            "dadoTerciario": "123.456.789-01",
+            "dadoSecundario": "123456780",
+            "data_de_cadastro": "2023-08-30",
+            "endereco": "Rua H, 505, Brasília, DF"
+        },
+        {
+            "dadoPrimario": "Roberto Martins",
+            "dadoQuartenario": "C009",
+            "dadoTerciario": "987.654.321-01",
+            "dadoSecundario": "987654320",
+            "data_de_cadastro": "2023-09-15",
+            "endereco": "Rua I, 606, Porto Alegre, RS",
+            "codigo_orcamento": "06"
+        },
+        {
+            "dadoPrimario": "Fernanda Rodrigues",
+            "dadoQuartenario": "C010",
+            "dadoTerciario": "456.789.123-01",
+            "dadoSecundario": "456789120",
+            "data_de_cadastro": "2023-10-20",
+            "endereco": "Rua J, 707, Goiânia, GO"
+        },
+        {
+            "dadoPrimario": "Marcos Silva",
+            "dadoQuartenario": "C011",
+            "dadoTerciario": "654.321.987-01",
+            "dadoSecundario": "654321980",
+            "data_de_cadastro": "2023-11-05",
+            "endereco": "Rua K, 808, Campo Grande, MS",
+            "codigo_orcamento": "07"
+        },
+        {
+            "dadoPrimario": "Claudia Lima",
+            "dadoQuartenario": "C012",
+            "dadoTerciario": "789.123.456-01",
+            "dadoSecundario": "789123450",
+            "data_de_cadastro": "2023-12-10",
+            "endereco": "Rua L, 909, Manaus, AM"
+        },
+        {
+            "dadoPrimario": "Robson Almeida",
+            "dadoQuartenario": "C013",
+            "dadoTerciario": "321.654.987-01",
+            "dadoSecundario": "321654980",
+            "data_de_cadastro": "2024-01-15",
+            "endereco": "Rua M, 1010, São Luís, MA",
+            "codigo_orcamento": "08"
+        },
+        {
+            "dadoPrimario": "Beatriz Costa",
+            "dadoQuartenario": "C014",
+            "dadoTerciario": "654.987.321-00",
+            "dadoSecundario": "654987320",
+            "data_de_cadastro": "2024-02-20",
+            "endereco": "Rua N, 1111, Aracaju, SE"
+        },
+        {
+            "dadoPrimario": "Jorge Ferreira",
+            "dadoQuartenario": "C015",
+            "dadoTerciario": "987.321.654-00",
+            "dadoSecundario": "987321650",
+            "data_de_cadastro": "2024-03-25",
+            "endereco": "Rua O, 1212, João Pessoa, PB",
+            "codigo_orcamento": "09"
+        },
+        {
+            "dadoPrimario": "Laura Santos",
+            "dadoQuartenario": "C016",
+            "dadoTerciario": "123.789.456-00",
+            "dadoSecundario": "123789450",
+            "data_de_cadastro": "2024-04-30",
+            "endereco": "Rua P, 1313, Maceió, AL"
+        },
+        {
+            "dadoPrimario": "Fábio Pereira",
+            "dadoQuartenario": "C017",
+            "dadoTerciario": "654.123.789-00",
+            "dadoSecundario": "654123780",
+            "data_de_cadastro": "2024-05-15",
+            "endereco": "Rua Q, 1414, Natal, RN",
+            "codigo_orcamento": "10"
+        },
+        {
+            "dadoPrimario": "Marcela Almeida",
+            "dadoQuartenario": "C018",
+            "dadoTerciario": "987.456.123-00",
+            "dadoSecundario": "987456120",
+            "data_de_cadastro": "2024-06-20",
+            "endereco": "Rua R, 1515, Teresina, PI"
+        },
+        {
+            "dadoPrimario": "Thiago Rodrigues",
+            "dadoQuartenario": "C019",
+            "dadoTerciario": "123.654.987-00",
+            "dadoSecundario": "123654970",
+            "data_de_cadastro": "2024-07-10",
+            "endereco": "Rua S, 1616, Vitória, ES",
+            "codigo_orcamento": "11"
+        },
+        {
+            "dadoPrimario": "Vanessa Costa",
+            "dadoQuartenario": "C020",
+            "dadoTerciario": "654.789.123-00",
+            "dadoSecundario": "654789120",
+            "data_de_cadastro": "2024-08-05",
+            "endereco": "Rua T, 1717, Belém, PA"
+        },
+        {
+            "dadoPrimario": "Gustavo Martins",
+            "dadoQuartenario": "C021",
+            "dadoTerciario": "987.321.456-00",
+            "dadoSecundario": "987321470",
+            "data_de_cadastro": "2024-09-15",
+            "endereco": "Rua U, 1818, Cuiabá, MT",
+            "codigo_orcamento": "12"
+        },
+        {
+            "dadoPrimario": "Simone Silva",
+            "dadoQuartenario": "C022",
+            "dadoTerciario": "123.456.987-00",
+            "dadoSecundario": "123456970",
+            "data_de_cadastro": "2024-10-20",
+            "endereco": "Rua V, 1919, Macapá, AP"
+        },
+        {
+            "dadoPrimario": "Daniel Lima",
+            "dadoQuartenario": "C023",
+            "dadoTerciario": "654.321.456-00",
+            "dadoSecundario": "654321460",
+            "data_de_cadastro": "2024-11-25",
+            "endereco": "Rua W, 2020, Boa Vista, RR",
+            "codigo_orcamento": "13"
+        },
+        {
+            "dadoPrimario": "Juliana Martins",
+            "dadoQuartenario": "C024",
+            "dadoTerciario": "987.654.321-01",
+            "dadoSecundario": "987654310",
+            "data_de_cadastro": "2024-12-30",
+            "endereco": "Rua X, 2121, Palmas, TO"
+        },
+        {
+            "dadoPrimario": "Felipe Almeida",
+            "dadoQuartenario": "C025",
+            "dadoTerciario": "123.789.654-00",
+            "dadoSecundario": "123789650",
+            "data_de_cadastro": "2025-01-15",
+            "endereco": "Rua Y, 2222, São Bernardo do Campo, SP",
+            "codigo_orcamento": "14"
+        },
+        {
+            "dadoPrimario": "Eduardo Costa",
+            "dadoQuartenario": "C026",
+            "dadoTerciario": "654.987.123-00",
+            "dadoSecundario": "654987130",
+            "data_de_cadastro": "2025-02-20",
+            "endereco": "Rua Z, 2323, Santo André, SP"
+        },
+        {
+            "dadoPrimario": "Isabela Lima",
+            "dadoQuartenario": "C027",
+            "dadoTerciario": "987.123.654-00",
+            "dadoSecundario": "987123640",
+            "data_de_cadastro": "2025-03-15",
+            "endereco": "Rua AA, 2424, Guarulhos, SP",
+            "codigo_orcamento": "15"
+        },
+        {
+            "dadoPrimario": "Lucas Pereira",
+            "dadoQuartenario": "C028",
+            "dadoTerciario": "321.789.456-00",
+            "dadoSecundario": "321789460",
+            "data_de_cadastro": "2025-04-10",
+            "endereco": "Rua BB, 2525, Osasco, SP"
+        },
+        {
+            "dadoPrimario": "Fernanda Santos",
+            "dadoQuartenario": "C029",
+            "dadoTerciario": "654.123.987-00",
+            "dadoSecundario": "654123970",
+            "data_de_cadastro": "2025-05-25",
+            "endereco": "Rua CC, 2626, Diadema, SP",
+            "codigo_orcamento": "16"
+        },
+        {
+            "dadoPrimario": "André Martins",
+            "dadoQuartenario": "C030",
+            "dadoTerciario": "987.456.321-00",
+            "dadoSecundario": "987456320",
+            "data_de_cadastro": "2025-06-30",
+            "endereco": "Rua DD, 2727, São Caetano do Sul, SP"
+        }
+    ],
+    "orcamentos": [
+        {
+            "dadoPrimario": "reparo",
+            "id_cliente": "C001",
+            "dadoTerciario": "João Silva",
+            "dadoSecundario": 120.50,
+            "dadoQuartenario": "01",
+            "data_do_cadastro": "2023-02-01",
+            "pecas_usadas": null
+        },
+        {
+            "dadoPrimario": "atualizacao",
+            "id_cliente": "C002",
+            "dadoTerciario": "Maria Oliveira",
+            "dadoSecundario": 95.75,
+            "dadoQuartenario": "02",
+            "data_do_cadastro": "2023-03-01",
+            "pecas_usadas": null
+        },
+        {
+            "dadoPrimario": "reparo",
+            "id_cliente": "C003",
+            "dadoTerciario": "Carlos Souza",
+            "dadoSecundario": 150.00,
+            "dadoQuartenario": "03",
+            "data_do_cadastro": "2023-04-01",
+            "pecas_usadas": null
+        },
+        {
+            "dadoPrimario": "atualizacao",
+            "id_cliente": "C004",
+            "dadoTerciario": "Ana Costa",
+            "dadoSecundario": 80.00,
+            "dadoQuartenario": "04",
+            "data_do_cadastro": "2023-05-01",
+            "pecas_usadas": null
+        },
+        {
+            "dadoPrimario": "reparo",
+            "id_cliente": "C005",
+            "dadoTerciario": "Pedro Lima",
+            "dadoSecundario": 200.00,
+            "dadoQuartenario": "05",
+            "data_do_cadastro": "2023-06-01",
+            "pecas_usadas": null
+        },
+        {
+            "dadoPrimario": "atualizacao",
+            "id_cliente": "C006",
+            "dadoTerciario": "Patricia Almeida",
+            "dadoSecundario": 130.25,
+            "dadoQuartenario": "06",
+            "data_do_cadastro": "2023-07-01",
+            "pecas_usadas": null
+        },
+        {
+            "dadoPrimario": "reparo",
+            "id_cliente": "C007",
+            "dadoTerciario": "Ricardo Pereira",
+            "dadoSecundario": 170.00,
+            "dadoQuartenario": "07",
+            "data_do_cadastro": "2023-08-01",
+            "pecas_usadas": null
+        },
+        {
+            "dadoPrimario": "atualizacao",
+            "id_cliente": "C008",
+            "dadoTerciario": "Juliana Santos",
+            "dadoSecundario": 110.50,
+            "dadoQuartenario": "08",
+            "data_do_cadastro": "2023-09-01",
+            "pecas_usadas": null
+        },
+        {
+            "dadoPrimario": "reparo",
+            "id_cliente": "C009",
+            "dadoTerciario": "Roberto Martins",
+            "dadoSecundario": 140.75,
+            "dadoQuartenario": "09",
+            "data_do_cadastro": "2023-10-01",
+            "pecas_usadas": null
+        },
+        {
+            "dadoPrimario": "atualizacao",
+            "id_cliente": "C010",
+            "dadoTerciario": "Fernanda Rodrigues",
+            "dadoSecundario": 90.00,
+            "dadoQuartenario": "10",
+            "data_do_cadastro": "2023-11-01",
+            "pecas_usadas": null
+        },
+        {
+            "dadoPrimario": "reparo",
+            "id_cliente": "C011",
+            "dadoTerciario": "Marcos Silva",
+            "dadoSecundario": 220.00,
+            "dadoQuartenario": "11",
+            "data_do_cadastro": "2023-12-01",
+            "pecas_usadas": null
+        },
+        {
+            "dadoPrimario": "atualizacao",
+            "id_cliente": "C012",
+            "dadoTerciario": "Claudia Lima",
+            "dadoSecundario": 100.00,
+            "dadoQuartenario": "12",
+            "data_do_cadastro": "2024-01-01",
+            "pecas_usadas": null
+        },
+        {
+            "dadoPrimario": "reparo",
+            "id_cliente": "C013",
+            "dadoTerciario": "Robson Almeida",
+            "dadoSecundario": 180.50,
+            "dadoQuartenario": "13",
+            "data_do_cadastro": "2024-02-01",
+            "pecas_usadas": null
+        },
+        {
+            "dadoPrimario": "atualizacao",
+            "id_cliente": "C014",
+            "dadoTerciario": "Beatriz Costa",
+            "dadoSecundario": 85.00,
+            "dadoQuartenario": "14",
+            "data_do_cadastro": "2024-03-01",
+            "pecas_usadas": null
+        },
+        {
+            "dadoPrimario": "reparo",
+            "id_cliente": "C015",
+            "dadoTerciario": "Jorge Ferreira",
+            "dadoSecundario": 140.00,
+            "dadoQuartenario": "15",
+            "data_do_cadastro": "2024-04-01",
+            "pecas_usadas": null
+        },
+        {
+            "dadoPrimario": "atualizacao",
+            "id_cliente": "C016",
+            "dadoTerciario": "Laura Santos",
+            "dadoSecundario": 115.25,
+            "dadoQuartenario": "16",
+            "data_do_cadastro": "2024-05-01",
+            "pecas_usadas": null
+        },
+        {
+            "dadoPrimario": "reparo",
+            "id_cliente": "C017",
+            "dadoTerciario": "Fábio Pereira",
+            "dadoSecundario": 190.00,
+            "dadoQuartenario": "17",
+            "data_do_cadastro": "2024-06-01",
+            "pecas_usadas": null
+        },
+        {
+            "dadoPrimario": "atualizacao",
+            "id_cliente": "C018",
+            "dadoTerciario": "Marcela Almeida",
+            "dadoSecundario": 125.00,
+            "dadoQuartenario": "18",
+            "data_do_cadastro": "2024-07-01",
+            "pecas_usadas": null
+        }
+    ],
+    "pecas": [
+        {
+            "dadoPrimario": "Tela LCD",
+            "dadoQuartenario": 5,
+            "dadoTerciario": "Fornecedor A",
+            "dadoSecundario": 120.00,
+            "id": "P001"
+        },
+        {
+            "dadoPrimario": "Bateria",
+            "dadoQuartenario": 8,
+            "dadoTerciario": "Fornecedor B",
+            "dadoSecundario": 80.00,
+            "id": "P002"
+        },
+        {
+            "dadoPrimario": "Botão Home",
+            "dadoQuartenario": 12,
+            "dadoTerciario": "Fornecedor C",
+            "dadoSecundario": 45.00,
+            "id": "P003"
+        },
+        {
+            "dadoPrimario": "Câmera Traseira",
+            "dadoQuartenario": 4,
+            "dadoTerciario": "Fornecedor D",
+            "dadoSecundario": 150.00,
+            "id": "P004"
+        },
+        {
+            "dadoPrimario": "Câmera Frontal",
+            "dadoQuartenario": 6,
+            "dadoTerciario": "Fornecedor E",
+            "dadoSecundario": 100.00,
+            "id": "P005"
+        },
+        {
+            "dadoPrimario": "Carregador",
+            "dadoQuartenario": 10,
+            "dadoTerciario": "Fornecedor F",
+            "dadoSecundario": 55.00,
+            "id": "P006"
+        },
+        {
+            "dadoPrimario": "Fone de Ouvido",
+            "dadoQuartenario": 7,
+            "dadoTerciario": "Fornecedor G",
+            "dadoSecundario": 75.00,
+            "id": "P007"
+        },
+        {
+            "dadoPrimario": "Placa Mãe",
+            "dadoQuartenario": 3,
+            "dadoTerciario": "Fornecedor H",
+            "dadoSecundario": 280.00,
+            "id": "P008"
+        },
+        {
+            "dadoPrimario": "Speaker",
+            "dadoQuartenario": 9,
+            "dadoTerciario": "Fornecedor I",
+            "dadoSecundario": 60.00,
+            "id": "P009"
+        },
+        {
+            "dadoPrimario": "Conector de Carga",
+            "dadoQuartenario": 11,
+            "dadoTerciario": "Fornecedor J",
+            "dadoSecundario": 85.00,
+            "id": "P010"
+        },
+        {
+            "dadoPrimario": "Antena",
+            "dadoQuartenario": 2,
+            "dadoTerciario": "Fornecedor K",
+            "dadoSecundario": 90.00,
+            "id": "P011"
+        },
+        {
+            "dadoPrimario": "Botão de Volume",
+            "dadoQuartenario": 12,
+            "dadoTerciario": "Fornecedor L",
+            "dadoSecundario": 50.00,
+            "id": "P012"
+        },
+        {
+            "dadoPrimario": "Cabo Flex",
+            "dadoQuartenario": 8,
+            "dadoTerciario": "Fornecedor M",
+            "dadoSecundario": 70.00,
+            "id": "P013"
+        },
+        {
+            "dadoPrimario": "Microfone",
+            "dadoQuartenario": 5,
+            "dadoTerciario": "Fornecedor N",
+            "dadoSecundario": 95.00,
+            "id": "P014"
+        },
+        {
+            "dadoPrimario": "Carcaça",
+            "dadoQuartenario": 6,
+            "dadoTerciario": "Fornecedor O",
+            "dadoSecundario": 220.00,
+            "id": "P015"
+        },
+        {
+            "dadoPrimario": "Chip de Memória",
+            "dadoQuartenario": 7,
+            "dadoTerciario": "Fornecedor P",
+            "dadoSecundario": 160.00,
+            "id": "P016"
+        },
+        {
+            "dadoPrimario": "Processador",
+            "dadoQuartenario": 4,
+            "dadoTerciario": "Fornecedor Q",
+            "dadoSecundario": 300.00,
+            "id": "P017"
+        },
+        {
+            "dadoPrimario": "Tela OLED",
+            "dadoQuartenario": 3,
+            "dadoTerciario": "Fornecedor R",
+            "dadoSecundario": 250.00,
+            "id": "P018"
+        },
+        {
+            "dadoPrimario": "Botão Power",
+            "dadoQuartenario": 9,
+            "dadoTerciario": "Fornecedor S",
+            "dadoSecundario": 65.00,
+            "id": "P019"
+        },
+        {
+            "dadoPrimario": "Ventoinha",
+            "dadoQuartenario": 12,
+            "dadoTerciario": "Fornecedor T",
+            "dadoSecundario": 140.00,
+            "id": "P020"
+        },
+        {
+            "dadoPrimario": "Sensor de Proximidade",
+            "dadoQuartenario": 6,
+            "dadoTerciario": "Fornecedor U",
+            "dadoSecundario": 95.00,
+            "id": "P021"
+        },
+        {
+            "dadoPrimario": "Sensor de Impressão Digital",
+            "dadoQuartenario": 7,
+            "dadoTerciario": "Fornecedor V",
+            "dadoSecundario": 110.00,
+            "id": "P022"
+        },
+        {
+            "dadoPrimario": "Traseira de Capa",
+            "dadoQuartenario": 10,
+            "dadoTerciario": "Fornecedor W",
+            "dadoSecundario": 80.00,
+            "id": "P023"
+        },
+        {
+            "dadoPrimario": "Placa de Circuito",
+            "dadoQuartenario": 4,
+            "dadoTerciario": "Fornecedor X",
+            "dadoSecundario": 150.00,
+            "id": "P024"
+        },
+        {
+            "dadoPrimario": "Botão de Home",
+            "dadoQuartenario": 8,
+            "dadoTerciario": "Fornecedor Y",
+            "dadoSecundario": 55.00,
+            "id": "P025"
+        },
+        {
+            "dadoPrimario": "Fita de Conexão",
+            "dadoQuartenario": 5,
+            "dadoTerciario": "Fornecedor Z",
+            "dadoSecundario": 70.00,
+            "id": "P026"
+        },
+        {
+            "dadoPrimario": "Teclado",
+            "dadoQuartenario": 9,
+            "dadoTerciario": "Fornecedor AA",
+            "dadoSecundario": 85.00,
+            "id": "P027"
+        },
+        {
+            "dadoPrimario": "Estrutura Interna",
+            "dadoQuartenario": 3,
+            "dadoTerciario": "Fornecedor BB",
+            "dadoSecundario": 120.00,
+            "id": "P028"
+        },
+        {
+            "dadoPrimario": "Proteção de Tela",
+            "dadoQuartenario": 11,
+            "dadoTerciario": "Fornecedor CC",
+            "dadoSecundario": 60.00,
+            "id": "P029"
+        },
+        {
+            "dadoPrimario": "Carregador Sem Fio",
+            "dadoQuartenario": 7,
+            "dadoTerciario": "Fornecedor DD",
+            "dadoSecundario": 200.00,
+            "id": "P030"
+        }
+    ],
+    "servicos": [
+        {
+            "dadoPrimario": "reparo",
+            "codigo_cliente": "C001",
+            "dadoTerciario": "João Silva",
+            "dadoSecundario": 120.50,
+            "id_orcamento": "01",
+            "tempo_estimado": "pronto",
+            "dadoQuartenario": "concluído"
+        },
+        {
+            "dadoPrimario": "atualizacao",
+            "codigo_cliente": "C002",
+            "dadoTerciario": "Maria Oliveira",
+            "dadoSecundario": 95.75,
+            "id_orcamento": "02",
+            "tempo_estimado": "2 dias",
+            "dadoQuartenario": "andamento"
+        },
+        {
+            "dadoPrimario": "reparo",
+            "codigo_cliente": "C003",
+            "dadoTerciario": "Carlos Souza",
+            "dadoSecundario": 150.00,
+            "id_orcamento": "03",
+            "tempo_estimado": "pronto",
+            "dadoQuartenario": "concluído"
+        },
+        {
+            "dadoPrimario": "atualizacao",
+            "codigo_cliente": "C004",
+            "dadoTerciario": "Ana Costa",
+            "dadoSecundario": 80.00,
+            "id_orcamento": "04",
+            "tempo_estimado": "3 dias",
+            "dadoQuartenario": "andamento"
+        },
+        {
+            "dadoPrimario": "reparo",
+            "codigo_cliente": "C005",
+            "dadoTerciario": "Pedro Lima",
+            "dadoSecundario": 200.00,
+            "id_orcamento": "05",
+            "tempo_estimado": "pronto",
+            "dadoQuartenario": "concluído"
+        },
+        {
+            "dadoPrimario": "atualizacao",
+            "codigo_cliente": "C006",
+            "dadoTerciario": "Patricia Almeida",
+            "dadoSecundario": 130.25,
+            "id_orcamento": "06",
+            "tempo_estimado": "1 dia",
+            "dadoQuartenario": "andamento"
+        },
+        {
+            "dadoPrimario": "reparo",
+            "codigo_cliente": "C007",
+            "dadoTerciario": "Ricardo Pereira",
+            "dadoSecundario": 170.00,
+            "id_orcamento": "07",
+            "tempo_estimado": "pronto",
+            "dadoQuartenario": "concluído"
+        },
+        {
+            "dadoPrimario": "atualizacao",
+            "codigo_cliente": "C008",
+            "dadoTerciario": "Juliana Santos",
+            "dadoSecundario": 110.50,
+            "id_orcamento": "08",
+            "tempo_estimado": "2 dias",
+            "dadoQuartenario": "andamento"
+        },
+        {
+            "dadoPrimario": "reparo",
+            "codigo_cliente": "C009",
+            "dadoTerciario": "Roberto Martins",
+            "dadoSecundario": 140.75,
+            "id_orcamento": "09",
+            "tempo_estimado": "pronto",
+            "dadoQuartenario": "concluído"
+        },
+        {
+            "dadoPrimario": "atualizacao",
+            "codigo_cliente": "C010",
+            "dadoTerciario": "Fernanda Rodrigues",
+            "dadoSecundario": 90.00,
+            "id_orcamento": "10",
+            "tempo_estimado": "3 dias",
+            "dadoQuartenario": "andamento"
+        },
+        {
+            "dadoPrimario": "reparo",
+            "codigo_cliente": "C011",
+            "dadoTerciario": "Marcos Silva",
+            "dadoSecundario": 220.00,
+            "id_orcamento": "11",
+            "tempo_estimado": "pronto",
+            "dadoQuartenario": "concluído"
+        },
+        {
+            "dadoPrimario": "atualizacao",
+            "codigo_cliente": "C012",
+            "dadoTerciario": "Claudia Lima",
+            "dadoSecundario": 100.00,
+            "id_orcamento": "12",
+            "tempo_estimado": "1 dia",
+            "dadoQuartenario": "andamento"
+        },
+        {
+            "dadoPrimario": "reparo",
+            "codigo_cliente": "C013",
+            "dadoTerciario": "Robson Almeida",
+            "dadoSecundario": 180.50,
+            "id_orcamento": "13",
+            "tempo_estimado": "pronto",
+            "dadoQuartenario": "concluído"
+        },
+        {
+            "dadoPrimario": "atualizacao",
+            "codigo_cliente": "C014",
+            "dadoTerciario": "Beatriz Costa",
+            "dadoSecundario": 85.00,
+            "id_orcamento": "14",
+            "tempo_estimado": "2 dias",
+            "dadoQuartenario": "andamento"
+        },
+        {
+            "dadoPrimario": "reparo",
+            "codigo_cliente": "C015",
+            "dadoTerciario": "Jorge Ferreira",
+            "dadoSecundario": 140.00,
+            "id_orcamento": "15",
+            "tempo_estimado": "pronto",
+            "dadoQuartenario": "concluído"
+        },
+        {
+            "dadoPrimario": "atualizacao",
+            "codigo_cliente": "C016",
+            "dadoTerciario": "Laura Santos",
+            "dadoSecundario": 115.25,
+            "id_orcamento": "16",
+            "tempo_estimado": "3 dias",
+            "dadoQuartenario": "andamento"
+        },
+        {
+            "dadoPrimario": "reparo",
+            "codigo_cliente": "C017",
+            "dadoTerciario": "Fábio Pereira",
+            "dadoSecundario": 190.00,
+            "id_orcamento": "17",
+            "tempo_estimado": "pronto",
+            "dadoQuartenario": "concluído"
+        },
+        {
+            "dadoPrimario": "atualizacao",
+            "codigo_cliente": "C018",
+            "dadoTerciario": "Marcela Almeida",
+            "dadoSecundario": 125.00,
+            "id_orcamento": "18",
+            "tempo_estimado": "1 dia",
+            "dadoQuartenario": "andamento"
+        }
+    ],
+    "fornecedores": [
+        {
+            "dadoPrimario": "Fornecedor A",
+            "numero": "11-1234-5678",
+            "dadoTerciario": "oficial",
+            "dadoSecundario": "Tela LCD",
+            "dadoQuartenario": "F001"
+        },
+        {
+            "dadoPrimario": "Fornecedor B",
+            "numero": "11-2345-6789",
+            "dadoTerciario": "oficial",
+            "dadoSecundario": "Bateria",
+            "dadoQuartenario": "F002"
+        },
+        {
+            "dadoPrimario": "Fornecedor C",
+            "numero": "11-3456-7890",
+            "dadoTerciario": "filial",
+            "dadoSecundario": "Botão Home",
+            "dadoQuartenario": "F003"
+        },
+        {
+            "dadoPrimario": "Fornecedor D",
+            "numero": "11-4567-8901",
+            "dadoTerciario": "oficial",
+            "dadoSecundario": "Câmera Traseira",
+            "dadoQuartenario": "F004"
+        },
+        {
+            "dadoPrimario": "Fornecedor E",
+            "numero": "11-5678-9012",
+            "dadoTerciario": "filial",
+            "dadoSecundario": "Câmera Frontal",
+            "dadoQuartenario": "F005"
+        },
+        {
+            "dadoPrimario": "Fornecedor F",
+            "numero": "11-6789-0123",
+            "dadoTerciario": "oficial",
+            "dadoSecundario": "Carregador",
+            "dadoQuartenario": "F006"
+        },
+        {
+            "dadoPrimario": "Fornecedor G",
+            "numero": "11-7890-1234",
+            "dadoTerciario": "filial",
+            "dadoSecundario": "Fone de Ouvido",
+            "dadoQuartenario": "F007"
+        },
+        {
+            "dadoPrimario": "Fornecedor H",
+            "numero": "11-8901-2345",
+            "dadoTerciario": "oficial",
+            "dadoSecundario": "Placa Mãe",
+            "dadoQuartenario": "F008"
+        },
+        {
+            "dadoPrimario": "Fornecedor I",
+            "numero": "11-9012-3456",
+            "dadoTerciario": "filial",
+            "dadoSecundario": "Speaker",
+            "dadoQuartenario": "F009"
+        },
+        {
+            "dadoPrimario": "Fornecedor J",
+            "numero": "11-0123-4567",
+            "dadoTerciario": "oficial",
+            "dadoSecundario": "Conector de Carga",
+            "dadoQuartenario": "F010"
+        },
+        {
+            "dadoPrimario": "Fornecedor K",
+            "numero": "11-1234-5679",
+            "dadoTerciario": "filial",
+            "dadoSecundario": "Antena",
+            "dadoQuartenario": "F011"
+        },
+        {
+            "dadoPrimario": "Fornecedor L",
+            "numero": "11-2345-6780",
+            "dadoTerciario": "oficial",
+            "dadoSecundario": "Botão de Volume",
+            "dadoQuartenario": "F012"
+        },
+        {
+            "dadoPrimario": "Fornecedor M",
+            "numero": "11-3456-7891",
+            "dadoTerciario": "filial",
+            "dadoSecundario": "Cabo Flex",
+            "dadoQuartenario": "F013"
+        },
+        {
+            "dadoPrimario": "Fornecedor N",
+            "numero": "11-4567-8902",
+            "dadoTerciario": "oficial",
+            "dadoSecundario": "Microfone",
+            "dadoQuartenario": "F014"
+        },
+        {
+            "dadoPrimario": "Fornecedor O",
+            "numero": "11-5678-9013",
+            "dadoTerciario": "filial",
+            "dadoSecundario": "Carcaça",
+            "dadoQuartenario": "F015"
+        },
+        {
+            "dadoPrimario": "Fornecedor P",
+            "numero": "11-6789-0124",
+            "dadoTerciario": "oficial",
+            "dadoSecundario": "Chip de Memória",
+            "dadoQuartenario": "F016"
+        },
+        {
+            "dadoPrimario": "Fornecedor Q",
+            "numero": "11-7890-1235",
+            "dadoTerciario": "filial",
+            "dadoSecundario": "Processador",
+            "dadoQuartenario": "F017"
+        },
+        {
+            "dadoPrimario": "Fornecedor R",
+            "numero": "11-8901-2346",
+            "dadoTerciario": "oficial",
+            "dadoSecundario": "Tela OLED",
+            "dadoQuartenario": "F018"
+        },
+        {
+            "dadoPrimario": "Fornecedor S",
+            "numero": "11-9012-3457",
+            "dadoTerciario": "filial",
+            "dadoSecundario": "Botão Power",
+            "dadoQuartenario": "F019"
+        },
+        {
+            "dadoPrimario": "Fornecedor T",
+            "numero": "11-0123-4568",
+            "dadoTerciario": "oficial",
+            "dadoSecundario": "Ventoinha",
+            "dadoQuartenario": "F020"
+        },
+        {
+            "dadoPrimario": "Fornecedor U",
+            "numero": "11-1234-5670",
+            "dadoTerciario": "filial",
+            "dadoSecundario": "Sensor de Proximidade",
+            "dadoQuartenario": "F021"
+        },
+        {
+            "dadoPrimario": "Fornecedor V",
+            "numero": "11-2345-6781",
+            "dadoTerciario": "oficial",
+            "dadoSecundario": "Sensor de Impressão Digital",
+            "dadoQuartenario": "F022"
+        },
+        {
+            "dadoPrimario": "Fornecedor W",
+            "numero": "11-3456-7892",
+            "dadoTerciario": "filial",
+            "dadoSecundario": "Traseira de Capa",
+            "dadoQuartenario": "F023"
+        },
+        {
+            "dadoPrimario": "Fornecedor X",
+            "numero": "11-4567-8903",
+            "dadoTerciario": "oficial",
+            "dadoSecundario": "Placa de Circuito",
+            "dadoQuartenario": "F024"
+        },
+        {
+            "dadoPrimario": "Fornecedor Y",
+            "numero": "11-5678-9014",
+            "dadoTerciario": "filial",
+            "dadoSecundario": "Botão de Home",
+            "dadoQuartenario": "F025"
+        },
+        {
+            "dadoPrimario": "Fornecedor Z",
+            "numero": "11-6789-0125",
+            "dadoTerciario": "oficial",
+            "dadoSecundario": "Fita de Conexão",
+            "dadoQuartenario": "F026"
+        },
+        {
+            "dadoPrimario": "Fornecedor AA",
+            "numero": "11-7890-1236",
+            "dadoTerciario": "filial",
+            "dadoSecundario": "Teclado",
+            "dadoQuartenario": "F027"
+        },
+        {
+            "dadoPrimario": "Fornecedor BB",
+            "numero": "11-8901-2347",
+            "dadoTerciario": "oficial",
+            "dadoSecundario": "Estrutura Interna",
+            "dadoQuartenario": "F028"
+        },
+        {
+            "dadoPrimario": "Fornecedor CC",
+            "numero": "11-9012-3458",
+            "dadoTerciario": "filial",
+            "dadoSecundario": "Proteção de Tela",
+            "dadoQuartenario": "F029"
+        },
+        {
+            "dadoPrimario": "Fornecedor DD",
+            "numero": "11-0123-4569",
+            "dadoTerciario": "oficial",
+            "dadoSecundario": "Carregador Sem Fio",
+            "dadoQuartenario": "F030"
+        }
+    ]
+}
