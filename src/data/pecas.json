@@ -1,0 +1,212 @@
+[
+    {
+        "modelo": "Tela LCD",
+        "quantidade": 5,
+        "fornecedor": "Fornecedor A",
+        "valor_da_peca": 120.00,
+        "id": "P001"
+    },
+    {
+        "modelo": "Bateria",
+        "quantidade": 8,
+        "fornecedor": "Fornecedor B",
+        "valor_da_peca": 80.00,
+        "id": "P002"
+    },
+    {
+        "modelo": "Botão Home",
+        "quantidade": 12,
+        "fornecedor": "Fornecedor C",
+        "valor_da_peca": 45.00,
+        "id": "P003"
+    },
+    {
+        "modelo": "Câmera Traseira",
+        "quantidade": 4,
+        "fornecedor": "Fornecedor D",
+        "valor_da_peca": 150.00,
+        "id": "P004"
+    },
+    {
+        "modelo": "Câmera Frontal",
+        "quantidade": 6,
+        "fornecedor": "Fornecedor E",
+        "valor_da_peca": 100.00,
+        "id": "P005"
+    },
+    {
+        "modelo": "Carregador",
+        "quantidade": 10,
+        "fornecedor": "Fornecedor F",
+        "valor_da_peca": 55.00,
+        "id": "P006"
+    },
+    {
+        "modelo": "Fone de Ouvido",
+        "quantidade": 7,
+        "fornecedor": "Fornecedor G",
+        "valor_da_peca": 75.00,
+        "id": "P007"
+    },
+    {
+        "modelo": "Placa Mãe",
+        "quantidade": 3,
+        "fornecedor": "Fornecedor H",
+        "valor_da_peca": 280.00,
+        "id": "P008"
+    },
+    {
+        "modelo": "Speaker",
+        "quantidade": 9,
+        "fornecedor": "Fornecedor I",
+        "valor_da_peca": 60.00,
+        "id": "P009"
+    },
+    {
+        "modelo": "Conector de Carga",
+        "quantidade": 11,
+        "fornecedor": "Fornecedor J",
+        "valor_da_peca": 85.00,
+        "id": "P010"
+    },
+    {
+        "modelo": "Antena",
+        "quantidade": 2,
+        "fornecedor": "Fornecedor K",
+        "valor_da_peca": 90.00,
+        "id": "P011"
+    },
+    {
+        "modelo": "Botão de Volume",
+        "quantidade": 12,
+        "fornecedor": "Fornecedor L",
+        "valor_da_peca": 50.00,
+        "id": "P012"
+    },
+    {
+        "modelo": "Cabo Flex",
+        "quantidade": 8,
+        "fornecedor": "Fornecedor M",
+        "valor_da_peca": 70.00,
+        "id": "P013"
+    },
+    {
+        "modelo": "Microfone",
+        "quantidade": 5,
+        "fornecedor": "Fornecedor N",
+        "valor_da_peca": 95.00,
+        "id": "P014"
+    },
+    {
+        "modelo": "Carcaça",
+        "quantidade": 6,
+        "fornecedor": "Fornecedor O",
+        "valor_da_peca": 220.00,
+        "id": "P015"
+    },
+    {
+        "modelo": "Chip de Memória",
+        "quantidade": 7,
+        "fornecedor": "Fornecedor P",
+        "valor_da_peca": 160.00,
+        "id": "P016"
+    },
+    {
+        "modelo": "Processador",
+        "quantidade": 4,
+        "fornecedor": "Fornecedor Q",
+        "valor_da_peca": 300.00,
+        "id": "P017"
+    },
+    {
+        "modelo": "Tela OLED",
+        "quantidade": 3,
+        "fornecedor": "Fornecedor R",
+        "valor_da_peca": 250.00,
+        "id": "P018"
+    },
+    {
+        "modelo": "Botão Power",
+        "quantidade": 9,
+        "fornecedor": "Fornecedor S",
+        "valor_da_peca": 65.00,
+        "id": "P019"
+    },
+    {
+        "modelo": "Ventoinha",
+        "quantidade": 12,
+        "fornecedor": "Fornecedor T",
+        "valor_da_peca": 140.00,
+        "id": "P020"
+    },
+    {
+        "modelo": "Sensor de Proximidade",
+        "quantidade": 6,
+        "fornecedor": "Fornecedor U",
+        "valor_da_peca": 95.00,
+        "id": "P021"
+    },
+    {
+        "modelo": "Sensor de Impressão Digital",
+        "quantidade": 7,
+        "fornecedor": "Fornecedor V",
+        "valor_da_peca": 110.00,
+        "id": "P022"
+    },
+    {
+        "modelo": "Traseira de Capa",
+        "quantidade": 10,
+        "fornecedor": "Fornecedor W",
+        "valor_da_peca": 80.00,
+        "id": "P023"
+    },
+    {
+        "modelo": "Placa de Circuito",
+        "quantidade": 4,
+        "fornecedor": "Fornecedor X",
+        "valor_da_peca": 150.00,
+        "id": "P024"
+    },
+    {
+        "modelo": "Botão de Home",
+        "quantidade": 8,
+        "fornecedor": "Fornecedor Y",
+        "valor_da_peca": 55.00,
+        "id": "P025"
+    },
+    {
+        "modelo": "Fita de Conexão",
+        "quantidade": 5,
+        "fornecedor": "Fornecedor Z",
+        "valor_da_peca": 70.00,
+        "id": "P026"
+    },
+    {
+        "modelo": "Teclado",
+        "quantidade": 9,
+        "fornecedor": "Fornecedor AA",
+        "valor_da_peca": 85.00,
+        "id": "P027"
+    },
+    {
+        "modelo": "Estrutura Interna",
+        "quantidade": 3,
+        "fornecedor": "Fornecedor BB",
+        "valor_da_peca": 120.00,
+        "id": "P028"
+    },
+    {
+        "modelo": "Proteção de Tela",
+        "quantidade": 11,
+        "fornecedor": "Fornecedor CC",
+        "valor_da_peca": 60.00,
+        "id": "P029"
+    },
+    {
+        "modelo": "Carregador Sem Fio",
+        "quantidade": 7,
+        "fornecedor": "Fornecedor DD",
+        "valor_da_peca": 200.00,
+        "id": "P030"
+    }
+]
