@@ -176,7 +176,7 @@ function abrirCadastro(){
 </template>
 <style scoped>
 .gray-color{
-    color: rgba(0, 0, 0, 0.5);
+    color: rgba(0, 0, 0, 0.3);
 }
 .subtitulo{
     font-size: 14px;
