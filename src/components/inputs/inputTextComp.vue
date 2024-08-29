@@ -2,7 +2,7 @@
 <template>            
     <div class="flex flex-col gap-10">
         <div class="flex flex-col input-area h-full">
-            <input type="text" id="" maxlength="10" required />
+            <input type="text" id="" :maxlength="max" required />
             <span>{{ content }}</span>
         </div>
     </div>
@@ -13,6 +13,10 @@ defineProps({
         type: String,
         required: true
     },
+    max: {
+        type: Number,
+        required: true
+    }
 })
 </script>
 <style scoped>
