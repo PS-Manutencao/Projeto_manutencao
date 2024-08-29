@@ -1,0 +1,212 @@
+[
+    {
+        "nome": "Fornecedor A",
+        "numero": "11-1234-5678",
+        "tipo": "oficial",
+        "pecas": ["Tela LCD"],
+        "id": "F001"
+    },
+    {
+        "nome": "Fornecedor B",
+        "numero": "11-2345-6789",
+        "tipo": "oficial",
+        "pecas": ["Bateria"],
+        "id": "F002"
+    },
+    {
+        "nome": "Fornecedor C",
+        "numero": "11-3456-7890",
+        "tipo": "filial",
+        "pecas": ["Botão Home"],
+        "id": "F003"
+    },
+    {
+        "nome": "Fornecedor D",
+        "numero": "11-4567-8901",
+        "tipo": "oficial",
+        "pecas": ["Câmera Traseira"],
+        "id": "F004"
+    },
+    {
+        "nome": "Fornecedor E",
+        "numero": "11-5678-9012",
+        "tipo": "filial",
+        "pecas": ["Câmera Frontal"],
+        "id": "F005"
+    },
+    {
+        "nome": "Fornecedor F",
+        "numero": "11-6789-0123",
+        "tipo": "oficial",
+        "pecas": ["Carregador"],
+        "id": "F006"
+    },
+    {
+        "nome": "Fornecedor G",
+        "numero": "11-7890-1234",
+        "tipo": "filial",
+        "pecas": ["Fone de Ouvido"],
+        "id": "F007"
+    },
+    {
+        "nome": "Fornecedor H",
+        "numero": "11-8901-2345",
+        "tipo": "oficial",
+        "pecas": ["Placa Mãe"],
+        "id": "F008"
+    },
+    {
+        "nome": "Fornecedor I",
+        "numero": "11-9012-3456",
+        "tipo": "filial",
+        "pecas": ["Speaker"],
+        "id": "F009"
+    },
+    {
+        "nome": "Fornecedor J",
+        "numero": "11-0123-4567",
+        "tipo": "oficial",
+        "pecas": ["Conector de Carga"],
+        "id": "F010"
+    },
+    {
+        "nome": "Fornecedor K",
+        "numero": "11-1234-5679",
+        "tipo": "filial",
+        "pecas": ["Antena"],
+        "id": "F011"
+    },
+    {
+        "nome": "Fornecedor L",
+        "numero": "11-2345-6780",
+        "tipo": "oficial",
+        "pecas": ["Botão de Volume"],
+        "id": "F012"
+    },
+    {
+        "nome": "Fornecedor M",
+        "numero": "11-3456-7891",
+        "tipo": "filial",
+        "pecas": ["Cabo Flex"],
+        "id": "F013"
+    },
+    {
+        "nome": "Fornecedor N",
+        "numero": "11-4567-8902",
+        "tipo": "oficial",
+        "pecas": ["Microfone"],
+        "id": "F014"
+    },
+    {
+        "nome": "Fornecedor O",
+        "numero": "11-5678-9013",
+        "tipo": "filial",
+        "pecas": ["Carcaça"],
+        "id": "F015"
+    },
+    {
+        "nome": "Fornecedor P",
+        "numero": "11-6789-0124",
+        "tipo": "oficial",
+        "pecas": ["Chip de Memória"],
+        "id": "F016"
+    },
+    {
+        "nome": "Fornecedor Q",
+        "numero": "11-7890-1235",
+        "tipo": "filial",
+        "pecas": ["Processador"],
+        "id": "F017"
+    },
+    {
+        "nome": "Fornecedor R",
+        "numero": "11-8901-2346",
+        "tipo": "oficial",
+        "pecas": ["Tela OLED"],
+        "id": "F018"
+    },
+    {
+        "nome": "Fornecedor S",
+        "numero": "11-9012-3457",
+        "tipo": "filial",
+        "pecas": ["Botão Power"],
+        "id": "F019"
+    },
+    {
+        "nome": "Fornecedor T",
+        "numero": "11-0123-4568",
+        "tipo": "oficial",
+        "pecas": ["Ventoinha"],
+        "id": "F020"
+    },
+    {
+        "nome": "Fornecedor U",
+        "numero": "11-1234-5670",
+        "tipo": "filial",
+        "pecas": ["Sensor de Proximidade"],
+        "id": "F021"
+    },
+    {
+        "nome": "Fornecedor V",
+        "numero": "11-2345-6781",
+        "tipo": "oficial",
+        "pecas": ["Sensor de Impressão Digital"],
+        "id": "F022"
+    },
+    {
+        "nome": "Fornecedor W",
+        "numero": "11-3456-7892",
+        "tipo": "filial",
+        "pecas": ["Traseira de Capa"],
+        "id": "F023"
+    },
+    {
+        "nome": "Fornecedor X",
+        "numero": "11-4567-8903",
+        "tipo": "oficial",
+        "pecas": ["Placa de Circuito"],
+        "id": "F024"
+    },
+    {
+        "nome": "Fornecedor Y",
+        "numero": "11-5678-9014",
+        "tipo": "filial",
+        "pecas": ["Botão de Home"],
+        "id": "F025"
+    },
+    {
+        "nome": "Fornecedor Z",
+        "numero": "11-6789-0125",
+        "tipo": "oficial",
+        "pecas": ["Fita de Conexão"],
+        "id": "F026"
+    },
+    {
+        "nome": "Fornecedor AA",
+        "numero": "11-7890-1236",
+        "tipo": "filial",
+        "pecas": ["Teclado"],
+        "id": "F027"
+    },
+    {
+        "nome": "Fornecedor BB",
+        "numero": "11-8901-2347",
+        "tipo": "oficial",
+        "pecas": ["Estrutura Interna"],
+        "id": "F028"
+    },
+    {
+        "nome": "Fornecedor CC",
+        "numero": "11-9012-3458",
+        "tipo": "filial",
+        "pecas": ["Proteção de Tela"],
+        "id": "F029"
+    },
+    {
+        "nome": "Fornecedor DD",
+        "numero": "11-0123-4569",
+        "tipo": "oficial",
+        "pecas": ["Carregador Sem Fio"],
+        "id": "F030"
+    }
+]

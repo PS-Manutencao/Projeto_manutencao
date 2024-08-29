@@ -1,0 +1,258 @@
+[
+    {
+        "nome": "João Silva",
+        "id": "C001",
+        "CPF": "123.456.789-00",
+        "numero": "123456789",
+        "data_de_cadastro": "2023-01-15",
+        "endereco": "Rua A, 123, São Paulo, SP",
+        "codigo_orcamento": "01"
+    },
+    {
+        "nome": "Maria Oliveira",
+        "id": "C002",
+        "CPF": "987.654.321-00",
+        "numero": "987654321",
+        "data_de_cadastro": "2023-02-20",
+        "endereco": "Rua B, 456, Rio de Janeiro, RJ",
+        "codigo_orcamento": "02"
+    },
+    {
+        "nome": "Carlos Souza",
+        "id": "C003",
+        "CPF": "456.789.123-00",
+        "numero": "456789123",
+        "data_de_cadastro": "2023-03-10",
+        "endereco": "Rua C, 789, Belo Horizonte, MG",
+        "codigo_orcamento": "03"
+    },
+    {
+        "nome": "Ana Costa",
+        "id": "C004",
+        "CPF": "321.654.987-00",
+        "numero": "321654987",
+        "data_de_cadastro": "2023-04-05",
+        "endereco": "Rua D, 101, Curitiba, PR"
+    },
+    {
+        "nome": "Pedro Lima",
+        "id": "C005",
+        "CPF": "654.321.987-00",
+        "numero": "654321987",
+        "data_de_cadastro": "2023-05-12",
+        "endereco": "Rua E, 202, Salvador, BA",
+        "codigo_orcamento": "04"
+    },
+    {
+        "nome": "Patricia Almeida",
+        "id": "C006",
+        "CPF": "789.123.456-00",
+        "numero": "789123456",
+        "data_de_cadastro": "2023-06-18",
+        "endereco": "Rua F, 303, Fortaleza, CE"
+    },
+    {
+        "nome": "Ricardo Pereira",
+        "id": "C007",
+        "CPF": "321.987.654-00",
+        "numero": "321987654",
+        "data_de_cadastro": "2023-07-25",
+        "endereco": "Rua G, 404, Recife, PE",
+        "codigo_orcamento": "05"
+    },
+    {
+        "nome": "Juliana Santos",
+        "id": "C008",
+        "CPF": "123.456.789-01",
+        "numero": "123456780",
+        "data_de_cadastro": "2023-08-30",
+        "endereco": "Rua H, 505, Brasília, DF"
+    },
+    {
+        "nome": "Roberto Martins",
+        "id": "C009",
+        "CPF": "987.654.321-01",
+        "numero": "987654320",
+        "data_de_cadastro": "2023-09-15",
+        "endereco": "Rua I, 606, Porto Alegre, RS",
+        "codigo_orcamento": "06"
+    },
+    {
+        "nome": "Fernanda Rodrigues",
+        "id": "C010",
+        "CPF": "456.789.123-01",
+        "numero": "456789120",
+        "data_de_cadastro": "2023-10-20",
+        "endereco": "Rua J, 707, Goiânia, GO"
+    },
+    {
+        "nome": "Marcos Silva",
+        "id": "C011",
+        "CPF": "654.321.987-01",
+        "numero": "654321980",
+        "data_de_cadastro": "2023-11-05",
+        "endereco": "Rua K, 808, Campo Grande, MS",
+        "codigo_orcamento": "07"
+    },
+    {
+        "nome": "Claudia Lima",
+        "id": "C012",
+        "CPF": "789.123.456-01",
+        "numero": "789123450",
+        "data_de_cadastro": "2023-12-10",
+        "endereco": "Rua L, 909, Manaus, AM"
+    },
+    {
+        "nome": "Robson Almeida",
+        "id": "C013",
+        "CPF": "321.654.987-01",
+        "numero": "321654980",
+        "data_de_cadastro": "2024-01-15",
+        "endereco": "Rua M, 1010, São Luís, MA",
+        "codigo_orcamento": "08"
+    },
+    {
+        "nome": "Beatriz Costa",
+        "id": "C014",
+        "CPF": "654.987.321-00",
+        "numero": "654987320",
+        "data_de_cadastro": "2024-02-20",
+        "endereco": "Rua N, 1111, Aracaju, SE"
+    },
+    {
+        "nome": "Jorge Ferreira",
+        "id": "C015",
+        "CPF": "987.321.654-00",
+        "numero": "987321650",
+        "data_de_cadastro": "2024-03-25",
+        "endereco": "Rua O, 1212, João Pessoa, PB",
+        "codigo_orcamento": "09"
+    },
+    {
+        "nome": "Laura Santos",
+        "id": "C016",
+        "CPF": "123.789.456-00",
+        "numero": "123789450",
+        "data_de_cadastro": "2024-04-30",
+        "endereco": "Rua P, 1313, Maceió, AL"
+    },
+    {
+        "nome": "Fábio Pereira",
+        "id": "C017",
+        "CPF": "654.123.789-00",
+        "numero": "654123780",
+        "data_de_cadastro": "2024-05-15",
+        "endereco": "Rua Q, 1414, Natal, RN",
+        "codigo_orcamento": "10"
+    },
+    {
+        "nome": "Marcela Almeida",
+        "id": "C018",
+        "CPF": "987.456.123-00",
+        "numero": "987456120",
+        "data_de_cadastro": "2024-06-20",
+        "endereco": "Rua R, 1515, Teresina, PI"
+    },
+    {
+        "nome": "Thiago Rodrigues",
+        "id": "C019",
+        "CPF": "123.654.987-00",
+        "numero": "123654970",
+        "data_de_cadastro": "2024-07-10",
+        "endereco": "Rua S, 1616, Vitória, ES",
+        "codigo_orcamento": "11"
+    },
+    {
+        "nome": "Vanessa Costa",
+        "id": "C020",
+        "CPF": "654.789.123-00",
+        "numero": "654789120",
+        "data_de_cadastro": "2024-08-05",
+        "endereco": "Rua T, 1717, Belém, PA"
+    },
+    {
+        "nome": "Gustavo Martins",
+        "id": "C021",
+        "CPF": "987.321.456-00",
+        "numero": "987321470",
+        "data_de_cadastro": "2024-09-15",
+        "endereco": "Rua U, 1818, Cuiabá, MT",
+        "codigo_orcamento": "12"
+    },
+    {
+        "nome": "Simone Silva",
+        "id": "C022",
+        "CPF": "123.456.987-00",
+        "numero": "123456970",
+        "data_de_cadastro": "2024-10-20",
+        "endereco": "Rua V, 1919, Macapá, AP"
+    },
+    {
+        "nome": "Daniel Lima",
+        "id": "C023",
+        "CPF": "654.321.456-00",
+        "numero": "654321460",
+        "data_de_cadastro": "2024-11-25",
+        "endereco": "Rua W, 2020, Boa Vista, RR",
+        "codigo_orcamento": "13"
+    },
+    {
+        "nome": "Juliana Martins",
+        "id": "C024",
+        "CPF": "987.654.321-01",
+        "numero": "987654310",
+        "data_de_cadastro": "2024-12-30",
+        "endereco": "Rua X, 2121, Palmas, TO"
+    },
+    {
+        "nome": "Felipe Almeida",
+        "id": "C025",
+        "CPF": "123.789.654-00",
+        "numero": "123789650",
+        "data_de_cadastro": "2025-01-15",
+        "endereco": "Rua Y, 2222, São Bernardo do Campo, SP",
+        "codigo_orcamento": "14"
+    },
+    {
+        "nome": "Eduardo Costa",
+        "id": "C026",
+        "CPF": "654.987.123-00",
+        "numero": "654987130",
+        "data_de_cadastro": "2025-02-20",
+        "endereco": "Rua Z, 2323, Santo André, SP"
+    },
+    {
+        "nome": "Isabela Lima",
+        "id": "C027",
+        "CPF": "987.123.654-00",
+        "numero": "987123640",
+        "data_de_cadastro": "2025-03-15",
+        "endereco": "Rua AA, 2424, Guarulhos, SP",
+        "codigo_orcamento": "15"
+    },
+    {
+        "nome": "Lucas Pereira",
+        "id": "C028",
+        "CPF": "321.789.456-00",
+        "numero": "321789460",
+        "data_de_cadastro": "2025-04-10",
+        "endereco": "Rua BB, 2525, Osasco, SP"
+    },
+    {
+        "nome": "Fernanda Santos",
+        "id": "C029",
+        "CPF": "654.123.987-00",
+        "numero": "654123970",
+        "data_de_cadastro": "2025-05-25",
+        "endereco": "Rua CC, 2626, Diadema, SP",
+        "codigo_orcamento": "16"
+    },
+    {
+        "nome": "André Martins",
+        "id": "C030",
+        "CPF": "987.456.321-00",
+        "numero": "987456320",
+        "data_de_cadastro": "2025-06-30",
+        "endereco": "Rua DD, 2727, São Caetano do Sul, SP"
+    }
+]

@@ -1,0 +1,66 @@
+[
+    {
+        "modelo": "Fone de Ouvido",
+        "fornecedor": "Fornecedor G",
+        "tipo": "acessorio",
+        "valor": 75.00,
+        "id": "P007",
+        "quantidade": 7
+    },
+    {
+        "modelo": "Carregador Sem Fio",
+        "fornecedor": "Fornecedor DD",
+        "tipo": "acessorio",
+        "valor": 200.00,
+        "id": "P030",
+        "quantidade": 7
+    },
+    {
+        "modelo": "Proteção de Tela",
+        "fornecedor": "Fornecedor CC",
+        "tipo": "acessorio",
+        "valor": 60.00,
+        "id": "P029",
+        "quantidade": 11
+    },
+    {
+        "modelo": "Traseira de Capa",
+        "fornecedor": "Fornecedor W",
+        "tipo": "acessorio",
+        "valor": 80.00,
+        "id": "P023",
+        "quantidade": 10
+    },
+    {
+        "modelo": "Chip de Memória",
+        "fornecedor": "Fornecedor P",
+        "tipo": "acessorio",
+        "valor": 160.00,
+        "id": "P016",
+        "quantidade": 7
+    },
+    {
+        "modelo": "Teclado",
+        "fornecedor": "Fornecedor AA",
+        "tipo": "acessorio",
+        "valor": 85.00,
+        "id": "P027",
+        "quantidade": 9
+    },
+    {
+        "modelo": "Fita de Conexão",
+        "fornecedor": "Fornecedor Z",
+        "tipo": "acessorio",
+        "valor": 70.00,
+        "id": "P026",
+        "quantidade": 5
+    },
+    {
+        "modelo": "Carcaça",
+        "fornecedor": "Fornecedor O",
+        "tipo": "acessorio",
+        "valor": 220.00,
+        "id": "P015",
+        "quantidade": 6
+    }
+]
