@@ -2,12 +2,13 @@
 <template>            
     <div class="flex flex-col gap-10">
         <div class="flex flex-col input-area h-full">
-            <input type="text" id="" :maxlength="max" required />
+            <input type="text" id="" :maxlength="max" required v-model="inputValue" />
             <span>{{ content }}</span>
         </div>
     </div>
 </template>
 <script setup>
+import { defineModel } from 'vue';
 defineProps({
     content: {
         type: String,
@@ -18,6 +19,7 @@ defineProps({
         required: true
     }
 })
+const inputValue = defineModel()
 </script>
 <style scoped>
     .input-area{

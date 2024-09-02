@@ -1,7 +1,7 @@
 <template>            
     <div class="flex flex-col gap-10 relative">
         <div class="flex flex-col input-area h-full">
-            <input :type="typeInput" id="" required />
+            <input :type="typeInput" id="" required v-model="inputValue" />
             <span>Senha</span>
             <div class="absolute right-5 z-10 cursor-pointer">
                 <i class='bx bx-show-alt bx-sm' v-if="show" @click="show = !show"/>
@@ -12,11 +12,12 @@
 </template>
 <script setup>
     import 'boxicons'
-    import { ref, computed } from 'vue';
+    import { ref, computed, defineModel } from 'vue';
     const show = ref(false)
     const typeInput = computed(() => {
     return show.value ? 'Text' : 'Password'
     })
+    const inputValue = defineModel()
 </script>
 <style scoped>
     .input-area{
