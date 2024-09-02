@@ -4,7 +4,7 @@
             "dadoSecundario": "Fone de Ouvido",
             "dadoPrimario": "Fornecedor G",
             "dadoTerciario": "acessorio",
-            "valor": 75.00,
+            "valor": "R$75.00",
             "id": "P007",
             "dadoQuartenario": 7
         },
@@ -12,7 +12,7 @@
             "dadoSecundario": "Carregador Sem Fio",
             "dadoPrimario": "Fornecedor DD",
             "dadoTerciario": "acessorio",
-            "valor": 200.00,
+            "valor": "R$200.00",
             "id": "P030",
             "dadoQuartenario": 7
         },
@@ -20,7 +20,7 @@
             "dadoSecundario": "Proteção de Tela",
             "dadoPrimario": "Fornecedor CC",
             "dadoTerciario": "acessorio",
-            "valor": 60.00,
+            "valor": "R$60.00",
             "id": "P029",
             "dadoQuartenario": 11
         },
@@ -28,7 +28,7 @@
             "dadoSecundario": "Traseira de Capa",
             "dadoPrimario": "Fornecedor W",
             "dadoTerciario": "acessorio",
-            "valor": 80.00,
+            "valor": "R$80.00",
             "id": "P023",
             "dadoQuartenario": 10
         },
@@ -36,7 +36,7 @@
             "dadoSecundario": "Chip de Memória",
             "dadoPrimario": "Fornecedor P",
             "dadoTerciario": "acessorio",
-            "valor": 160.00,
+            "valor": "R$160.00",
             "id": "P016",
             "dadoQuartenario": 7
         },
@@ -44,7 +44,7 @@
             "dadoSecundario": "Teclado",
             "dadoPrimario": "Fornecedor AA",
             "dadoTerciario": "acessorio",
-            "valor": 85.00,
+            "valor": "R$85.00",
             "id": "P027",
             "dadoQuartenario": 9
         },
@@ -52,7 +52,7 @@
             "dadoSecundario": "Fita de Conexão",
             "dadoPrimario": "Fornecedor Z",
             "dadoTerciario": "acessorio",
-            "valor": 70.00,
+            "valor": "R$70.00",
             "id": "P026",
             "dadoQuartenario": 5
         },
@@ -60,7 +60,7 @@
             "dadoSecundario": "Carcaça",
             "dadoPrimario": "Fornecedor O",
             "dadoTerciario": "acessorio",
-            "valor": 220.00,
+            "valor": "R$220.00",
             "id": "P015",
             "dadoQuartenario": 6
         }
@@ -328,7 +328,7 @@
             "dadoPrimario": "reparo",
             "id_cliente": "C001",
             "dadoTerciario": "João Silva",
-            "dadoSecundario": 120.50,
+            "dadoSecundario": "R$120.50",
             "dadoQuartenario": "01",
             "data_do_cadastro": "2023-02-01",
             "pecas_usadas": null
@@ -337,7 +337,7 @@
             "dadoPrimario": "atualizacao",
             "id_cliente": "C002",
             "dadoTerciario": "Maria Oliveira",
-            "dadoSecundario": 95.75,
+            "dadoSecundario": "R$95.75",
             "dadoQuartenario": "02",
             "data_do_cadastro": "2023-03-01",
             "pecas_usadas": null
@@ -346,7 +346,7 @@
             "dadoPrimario": "reparo",
             "id_cliente": "C003",
             "dadoTerciario": "Carlos Souza",
-            "dadoSecundario": 150.00,
+            "dadoSecundario": "R$150.00",
             "dadoQuartenario": "03",
             "data_do_cadastro": "2023-04-01",
             "pecas_usadas": null
@@ -355,7 +355,7 @@
             "dadoPrimario": "atualizacao",
             "id_cliente": "C004",
             "dadoTerciario": "Ana Costa",
-            "dadoSecundario": 80.00,
+            "dadoSecundario": "R$80.00",
             "dadoQuartenario": "04",
             "data_do_cadastro": "2023-05-01",
             "pecas_usadas": null
@@ -364,7 +364,7 @@
             "dadoPrimario": "reparo",
             "id_cliente": "C005",
             "dadoTerciario": "Pedro Lima",
-            "dadoSecundario": 200.00,
+            "dadoSecundario": "R$200.00",
             "dadoQuartenario": "05",
             "data_do_cadastro": "2023-06-01",
             "pecas_usadas": null
@@ -373,7 +373,7 @@
             "dadoPrimario": "atualizacao",
             "id_cliente": "C006",
             "dadoTerciario": "Patricia Almeida",
-            "dadoSecundario": 130.25,
+            "dadoSecundario": "R$130.25",
             "dadoQuartenario": "06",
             "data_do_cadastro": "2023-07-01",
             "pecas_usadas": null
@@ -382,7 +382,7 @@
             "dadoPrimario": "reparo",
             "id_cliente": "C007",
             "dadoTerciario": "Ricardo Pereira",
-            "dadoSecundario": 170.00,
+            "dadoSecundario": "R$170.00",
             "dadoQuartenario": "07",
             "data_do_cadastro": "2023-08-01",
             "pecas_usadas": null
@@ -391,7 +391,7 @@
             "dadoPrimario": "atualizacao",
             "id_cliente": "C008",
             "dadoTerciario": "Juliana Santos",
-            "dadoSecundario": 110.50,
+            "dadoSecundario": "R$110.50",
             "dadoQuartenario": "08",
             "data_do_cadastro": "2023-09-01",
             "pecas_usadas": null
@@ -400,7 +400,7 @@
             "dadoPrimario": "reparo",
             "id_cliente": "C009",
             "dadoTerciario": "Roberto Martins",
-            "dadoSecundario": 140.75,
+            "dadoSecundario": "R$140.75",
             "dadoQuartenario": "09",
             "data_do_cadastro": "2023-10-01",
             "pecas_usadas": null
@@ -409,7 +409,7 @@
             "dadoPrimario": "atualizacao",
             "id_cliente": "C010",
             "dadoTerciario": "Fernanda Rodrigues",
-            "dadoSecundario": 90.00,
+            "dadoSecundario": "R$90.00",
             "dadoQuartenario": "10",
             "data_do_cadastro": "2023-11-01",
             "pecas_usadas": null
@@ -418,7 +418,7 @@
             "dadoPrimario": "reparo",
             "id_cliente": "C011",
             "dadoTerciario": "Marcos Silva",
-            "dadoSecundario": 220.00,
+            "dadoSecundario": "R$220.00",
             "dadoQuartenario": "11",
             "data_do_cadastro": "2023-12-01",
             "pecas_usadas": null
@@ -427,7 +427,7 @@
             "dadoPrimario": "atualizacao",
             "id_cliente": "C012",
             "dadoTerciario": "Claudia Lima",
-            "dadoSecundario": 100.00,
+            "dadoSecundario": "R$100.00",
             "dadoQuartenario": "12",
             "data_do_cadastro": "2024-01-01",
             "pecas_usadas": null
@@ -436,7 +436,7 @@
             "dadoPrimario": "reparo",
             "id_cliente": "C013",
             "dadoTerciario": "Robson Almeida",
-            "dadoSecundario": 180.50,
+            "dadoSecundario": "R$180.50",
             "dadoQuartenario": "13",
             "data_do_cadastro": "2024-02-01",
             "pecas_usadas": null
@@ -445,7 +445,7 @@
             "dadoPrimario": "atualizacao",
             "id_cliente": "C014",
             "dadoTerciario": "Beatriz Costa",
-            "dadoSecundario": 85.00,
+            "dadoSecundario": "R$85.00",
             "dadoQuartenario": "14",
             "data_do_cadastro": "2024-03-01",
             "pecas_usadas": null
@@ -454,7 +454,7 @@
             "dadoPrimario": "reparo",
             "id_cliente": "C015",
             "dadoTerciario": "Jorge Ferreira",
-            "dadoSecundario": 140.00,
+            "dadoSecundario": "R$140.00",
             "dadoQuartenario": "15",
             "data_do_cadastro": "2024-04-01",
             "pecas_usadas": null
@@ -463,7 +463,7 @@
             "dadoPrimario": "atualizacao",
             "id_cliente": "C016",
             "dadoTerciario": "Laura Santos",
-            "dadoSecundario": 115.25,
+            "dadoSecundario": "R$115.25",
             "dadoQuartenario": "16",
             "data_do_cadastro": "2024-05-01",
             "pecas_usadas": null
@@ -472,7 +472,7 @@
             "dadoPrimario": "reparo",
             "id_cliente": "C017",
             "dadoTerciario": "Fábio Pereira",
-            "dadoSecundario": 190.00,
+            "dadoSecundario": "R$190.00",
             "dadoQuartenario": "17",
             "data_do_cadastro": "2024-06-01",
             "pecas_usadas": null
@@ -481,7 +481,7 @@
             "dadoPrimario": "atualizacao",
             "id_cliente": "C018",
             "dadoTerciario": "Marcela Almeida",
-            "dadoSecundario": 125.00,
+            "dadoSecundario": "R$125.00",
             "dadoQuartenario": "18",
             "data_do_cadastro": "2024-07-01",
             "pecas_usadas": null
@@ -492,210 +492,210 @@
             "dadoPrimario": "Tela LCD",
             "dadoQuartenario": 5,
             "dadoTerciario": "Fornecedor A",
-            "dadoSecundario": 120.00,
+            "dadoSecundario": "R$120.00",
             "id": "P001"
         },
         {
             "dadoPrimario": "Bateria",
             "dadoQuartenario": 8,
             "dadoTerciario": "Fornecedor B",
-            "dadoSecundario": 80.00,
+            "dadoSecundario": "R$80.00",
             "id": "P002"
         },
         {
             "dadoPrimario": "Botão Home",
             "dadoQuartenario": 12,
             "dadoTerciario": "Fornecedor C",
-            "dadoSecundario": 45.00,
+            "dadoSecundario": "R$45.00",
             "id": "P003"
         },
         {
             "dadoPrimario": "Câmera Traseira",
             "dadoQuartenario": 4,
             "dadoTerciario": "Fornecedor D",
-            "dadoSecundario": 150.00,
+            "dadoSecundario": "R$150.00",
             "id": "P004"
         },
         {
             "dadoPrimario": "Câmera Frontal",
             "dadoQuartenario": 6,
             "dadoTerciario": "Fornecedor E",
-            "dadoSecundario": 100.00,
+            "dadoSecundario": "R$100.00",
             "id": "P005"
         },
         {
             "dadoPrimario": "Carregador",
             "dadoQuartenario": 10,
             "dadoTerciario": "Fornecedor F",
-            "dadoSecundario": 55.00,
+            "dadoSecundario": "R$55.00",
             "id": "P006"
         },
         {
             "dadoPrimario": "Fone de Ouvido",
             "dadoQuartenario": 7,
             "dadoTerciario": "Fornecedor G",
-            "dadoSecundario": 75.00,
+            "dadoSecundario": "R$75.00",
             "id": "P007"
         },
         {
             "dadoPrimario": "Placa Mãe",
             "dadoQuartenario": 3,
             "dadoTerciario": "Fornecedor H",
-            "dadoSecundario": 280.00,
+            "dadoSecundario": "R$280.00",
             "id": "P008"
         },
         {
             "dadoPrimario": "Speaker",
             "dadoQuartenario": 9,
             "dadoTerciario": "Fornecedor I",
-            "dadoSecundario": 60.00,
+            "dadoSecundario": "R$60.00",
             "id": "P009"
         },
         {
             "dadoPrimario": "Conector de Carga",
             "dadoQuartenario": 11,
             "dadoTerciario": "Fornecedor J",
-            "dadoSecundario": 85.00,
+            "dadoSecundario": "R$85.00",
             "id": "P010"
         },
         {
             "dadoPrimario": "Antena",
             "dadoQuartenario": 2,
             "dadoTerciario": "Fornecedor K",
-            "dadoSecundario": 90.00,
+            "dadoSecundario": "R$90.00",
             "id": "P011"
         },
         {
             "dadoPrimario": "Botão de Volume",
             "dadoQuartenario": 12,
             "dadoTerciario": "Fornecedor L",
-            "dadoSecundario": 50.00,
+            "dadoSecundario": "R$50.00",
             "id": "P012"
         },
         {
             "dadoPrimario": "Cabo Flex",
             "dadoQuartenario": 8,
             "dadoTerciario": "Fornecedor M",
-            "dadoSecundario": 70.00,
+            "dadoSecundario": "R$70.00",
             "id": "P013"
         },
         {
             "dadoPrimario": "Microfone",
             "dadoQuartenario": 5,
             "dadoTerciario": "Fornecedor N",
-            "dadoSecundario": 95.00,
+            "dadoSecundario": "R$95.00",
             "id": "P014"
         },
         {
             "dadoPrimario": "Carcaça",
             "dadoQuartenario": 6,
             "dadoTerciario": "Fornecedor O",
-            "dadoSecundario": 220.00,
+            "dadoSecundario": "R$220.00",
             "id": "P015"
         },
         {
             "dadoPrimario": "Chip de Memória",
             "dadoQuartenario": 7,
             "dadoTerciario": "Fornecedor P",
-            "dadoSecundario": 160.00,
+            "dadoSecundario": "R$160.00",
             "id": "P016"
         },
         {
             "dadoPrimario": "Processador",
             "dadoQuartenario": 4,
             "dadoTerciario": "Fornecedor Q",
-            "dadoSecundario": 300.00,
+            "dadoSecundario": "R$300.00",
             "id": "P017"
         },
         {
             "dadoPrimario": "Tela OLED",
             "dadoQuartenario": 3,
             "dadoTerciario": "Fornecedor R",
-            "dadoSecundario": 250.00,
+            "dadoSecundario": "R$250.00",
             "id": "P018"
         },
         {
             "dadoPrimario": "Botão Power",
             "dadoQuartenario": 9,
             "dadoTerciario": "Fornecedor S",
-            "dadoSecundario": 65.00,
+            "dadoSecundario": "R$65.00",
             "id": "P019"
         },
         {
             "dadoPrimario": "Ventoinha",
             "dadoQuartenario": 12,
             "dadoTerciario": "Fornecedor T",
-            "dadoSecundario": 140.00,
+            "dadoSecundario": "R$140.00",
             "id": "P020"
         },
         {
             "dadoPrimario": "Sensor de Proximidade",
             "dadoQuartenario": 6,
             "dadoTerciario": "Fornecedor U",
-            "dadoSecundario": 95.00,
+            "dadoSecundario": "R$95.00",
             "id": "P021"
         },
         {
             "dadoPrimario": "Sensor de Impressão Digital",
             "dadoQuartenario": 7,
             "dadoTerciario": "Fornecedor V",
-            "dadoSecundario": 110.00,
+            "dadoSecundario": "R$110.00",
             "id": "P022"
         },
         {
             "dadoPrimario": "Traseira de Capa",
             "dadoQuartenario": 10,
             "dadoTerciario": "Fornecedor W",
-            "dadoSecundario": 80.00,
+            "dadoSecundario": "R$80.00",
             "id": "P023"
         },
         {
             "dadoPrimario": "Placa de Circuito",
             "dadoQuartenario": 4,
             "dadoTerciario": "Fornecedor X",
-            "dadoSecundario": 150.00,
+            "dadoSecundario": "R$150.00",
             "id": "P024"
         },
         {
             "dadoPrimario": "Botão de Home",
             "dadoQuartenario": 8,
             "dadoTerciario": "Fornecedor Y",
-            "dadoSecundario": 55.00,
+            "dadoSecundario": "R$55.00",
             "id": "P025"
         },
         {
             "dadoPrimario": "Fita de Conexão",
             "dadoQuartenario": 5,
             "dadoTerciario": "Fornecedor Z",
-            "dadoSecundario": 70.00,
+            "dadoSecundario": "R$70.00",
             "id": "P026"
         },
         {
             "dadoPrimario": "Teclado",
             "dadoQuartenario": 9,
             "dadoTerciario": "Fornecedor AA",
-            "dadoSecundario": 85.00,
+            "dadoSecundario": "R$85.00",
             "id": "P027"
         },
         {
             "dadoPrimario": "Estrutura Interna",
             "dadoQuartenario": 3,
             "dadoTerciario": "Fornecedor BB",
-            "dadoSecundario": 120.00,
+            "dadoSecundario": "R$120.00",
             "id": "P028"
         },
         {
             "dadoPrimario": "Proteção de Tela",
             "dadoQuartenario": 11,
             "dadoTerciario": "Fornecedor CC",
-            "dadoSecundario": 60.00,
+            "dadoSecundario": "R$60.00",
             "id": "P029"
         },
         {
             "dadoPrimario": "Carregador Sem Fio",
             "dadoQuartenario": 7,
             "dadoTerciario": "Fornecedor DD",
-            "dadoSecundario": 200.00,
+            "dadoSecundario": "R$200.00",
             "id": "P030"
         }
     ],
@@ -704,7 +704,7 @@
             "dadoPrimario": "reparo",
             "codigo_cliente": "C001",
             "dadoTerciario": "João Silva",
-            "dadoSecundario": 120.50,
+            "dadoSecundario": "R$120.50",
             "id_orcamento": "01",
             "tempo_estimado": "pronto",
             "dadoQuartenario": "concluído"
@@ -713,16 +713,16 @@
             "dadoPrimario": "atualizacao",
             "codigo_cliente": "C002",
             "dadoTerciario": "Maria Oliveira",
-            "dadoSecundario": 95.75,
+            "dadoSecundario": "R$95.75",
             "id_orcamento": "02",
             "tempo_estimado": "2 dias",
-            "dadoQuartenario": "andamento"
+            "dadoQuartenario": "Em andamento"
         },
         {
             "dadoPrimario": "reparo",
             "codigo_cliente": "C003",
             "dadoTerciario": "Carlos Souza",
-            "dadoSecundario": 150.00,
+            "dadoSecundario": "R$150.00",
             "id_orcamento": "03",
             "tempo_estimado": "pronto",
             "dadoQuartenario": "concluído"
@@ -731,16 +731,16 @@
             "dadoPrimario": "atualizacao",
             "codigo_cliente": "C004",
             "dadoTerciario": "Ana Costa",
-            "dadoSecundario": 80.00,
+            "dadoSecundario": "R$80.00",
             "id_orcamento": "04",
             "tempo_estimado": "3 dias",
-            "dadoQuartenario": "andamento"
+            "dadoQuartenario": "Em andamento"
         },
         {
             "dadoPrimario": "reparo",
             "codigo_cliente": "C005",
             "dadoTerciario": "Pedro Lima",
-            "dadoSecundario": 200.00,
+            "dadoSecundario": "R$200.00",
             "id_orcamento": "05",
             "tempo_estimado": "pronto",
             "dadoQuartenario": "concluído"
@@ -749,16 +749,16 @@
             "dadoPrimario": "atualizacao",
             "codigo_cliente": "C006",
             "dadoTerciario": "Patricia Almeida",
-            "dadoSecundario": 130.25,
+            "dadoSecundario": "R$130.25",
             "id_orcamento": "06",
             "tempo_estimado": "1 dia",
-            "dadoQuartenario": "andamento"
+            "dadoQuartenario": "Em andamento"
         },
         {
             "dadoPrimario": "reparo",
             "codigo_cliente": "C007",
             "dadoTerciario": "Ricardo Pereira",
-            "dadoSecundario": 170.00,
+            "dadoSecundario": "R$170.00",
             "id_orcamento": "07",
             "tempo_estimado": "pronto",
             "dadoQuartenario": "concluído"
@@ -767,16 +767,16 @@
             "dadoPrimario": "atualizacao",
             "codigo_cliente": "C008",
             "dadoTerciario": "Juliana Santos",
-            "dadoSecundario": 110.50,
+            "dadoSecundario": "R$110.50",
             "id_orcamento": "08",
             "tempo_estimado": "2 dias",
-            "dadoQuartenario": "andamento"
+            "dadoQuartenario": "Em andamento"
         },
         {
             "dadoPrimario": "reparo",
             "codigo_cliente": "C009",
             "dadoTerciario": "Roberto Martins",
-            "dadoSecundario": 140.75,
+            "dadoSecundario": "R$140.75",
             "id_orcamento": "09",
             "tempo_estimado": "pronto",
             "dadoQuartenario": "concluído"
@@ -785,16 +785,16 @@
             "dadoPrimario": "atualizacao",
             "codigo_cliente": "C010",
             "dadoTerciario": "Fernanda Rodrigues",
-            "dadoSecundario": 90.00,
+            "dadoSecundario": "R$90.00",
             "id_orcamento": "10",
             "tempo_estimado": "3 dias",
-            "dadoQuartenario": "andamento"
+            "dadoQuartenario": "Em andamento"
         },
         {
             "dadoPrimario": "reparo",
             "codigo_cliente": "C011",
             "dadoTerciario": "Marcos Silva",
-            "dadoSecundario": 220.00,
+            "dadoSecundario": "R$220.00",
             "id_orcamento": "11",
             "tempo_estimado": "pronto",
             "dadoQuartenario": "concluído"
@@ -803,16 +803,16 @@
             "dadoPrimario": "atualizacao",
             "codigo_cliente": "C012",
             "dadoTerciario": "Claudia Lima",
-            "dadoSecundario": 100.00,
+            "dadoSecundario": "R$100.00",
             "id_orcamento": "12",
             "tempo_estimado": "1 dia",
-            "dadoQuartenario": "andamento"
+            "dadoQuartenario": "Em andamento"
         },
         {
             "dadoPrimario": "reparo",
             "codigo_cliente": "C013",
             "dadoTerciario": "Robson Almeida",
-            "dadoSecundario": 180.50,
+            "dadoSecundario": "R$180.50",
             "id_orcamento": "13",
             "tempo_estimado": "pronto",
             "dadoQuartenario": "concluído"
@@ -821,16 +821,16 @@
             "dadoPrimario": "atualizacao",
             "codigo_cliente": "C014",
             "dadoTerciario": "Beatriz Costa",
-            "dadoSecundario": 85.00,
+            "dadoSecundario": "R$85.00",
             "id_orcamento": "14",
             "tempo_estimado": "2 dias",
-            "dadoQuartenario": "andamento"
+            "dadoQuartenario": "Em andamento"
         },
         {
             "dadoPrimario": "reparo",
             "codigo_cliente": "C015",
             "dadoTerciario": "Jorge Ferreira",
-            "dadoSecundario": 140.00,
+            "dadoSecundario": "R$140.00",
             "id_orcamento": "15",
             "tempo_estimado": "pronto",
             "dadoQuartenario": "concluído"
@@ -839,16 +839,16 @@
             "dadoPrimario": "atualizacao",
             "codigo_cliente": "C016",
             "dadoTerciario": "Laura Santos",
-            "dadoSecundario": 115.25,
+            "dadoSecundario": "R$115.25",
             "id_orcamento": "16",
             "tempo_estimado": "3 dias",
-            "dadoQuartenario": "andamento"
+            "dadoQuartenario": "Em andamento"
         },
         {
             "dadoPrimario": "reparo",
             "codigo_cliente": "C017",
             "dadoTerciario": "Fábio Pereira",
-            "dadoSecundario": 190.00,
+            "dadoSecundario": "R$190.00",
             "id_orcamento": "17",
             "tempo_estimado": "pronto",
             "dadoQuartenario": "concluído"
@@ -857,10 +857,10 @@
             "dadoPrimario": "atualizacao",
             "codigo_cliente": "C018",
             "dadoTerciario": "Marcela Almeida",
-            "dadoSecundario": 125.00,
+            "dadoSecundario": "R$125.00",
             "id_orcamento": "18",
             "tempo_estimado": "1 dia",
-            "dadoQuartenario": "andamento"
+            "dadoQuartenario": "Em andamento"
         }
     ],
     "fornecedores": [
@@ -1074,5 +1074,10 @@
             "dadoSecundario": "Carregador Sem Fio",
             "dadoQuartenario": "F030"
         }
-    ]
+    ],
+    "acess":
+        {
+            "code": "0123456789",
+            "password": "0123456789"
+        }   
 }
