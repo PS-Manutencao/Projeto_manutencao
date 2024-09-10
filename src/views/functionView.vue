@@ -38,6 +38,7 @@ function updateDados() {
         results.value = response.data
     })
 }
+
 const foco = ref()
 function focar(e) {
     foco.value = e
@@ -59,7 +60,7 @@ function chamarMetodoDoFilho() {
             <div class="flex flex-col justify-between w-2/5">
                 <div><h1 class="text-4xl font-semibold">Buscar {{tema}}</h1></div>
                 <inputTextComp content="buscar por codigo, nome, CPF ou numero" max=50 class="w-full" />
-                <div class="flex flex-col gap-5">
+                <div class="flex flex-col gap-5 h-4/5">
                     <span class="subtitulo">{{ link.replace('/', '') }}</span>
                     <dadosDivComp v-for="(result, index) in results.slice(0, 10)" :key="index"
                     :dadoTL="result.dadoPrimario"
