@@ -57,18 +57,18 @@ function chamarMetodoDoFilho() {
     <div class="flex">
         <navbarComp @click="updateDados()" />
         <div class="flex justify-between w-full pt-14 px-16 pb-10">
-            <div class="flex flex-col justify-between w-2/5">
+            <div class="flex flex-col justify-start w-2/5">
                 <div><h1 class="text-4xl font-semibold">Buscar {{tema}}</h1></div>
-                <inputTextComp content="buscar por codigo, nome, CPF ou numero" max=50 class="w-full" />
-                <div class="flex flex-col gap-5 h-4/5">
-                    <span class="subtitulo">{{ link.replace('/', '') }}</span>
-                    <dadosDivComp v-for="(result, index) in results.slice(0, 10)" :key="index"
+                <inputTextComp content="buscar por codigo, nome, CPF ou numero" max=50 class="w-full mt-16" />
+                <span class="subtitulo mt-10 mb-4">{{ link.replace('/', '') }}</span>
+                <div class="flex flex-col gap-5 itens">
+                    <dadosDivComp v-for="(result, index) in results" :key="index"
                     :dadoTL="result.dadoPrimario"
                     :dadoTR="result.dadoSecundario"
                     :dadoBL="result.dadoTerciario"
                     :dadoBR="result.dadoQuartenario"
-                    @click="focar(index)"/>
-                    <div class="self-end" v-show="(results.length - 10) > 0">+{{ results.length - 10 }}</div>
+                    @click="focar(index)"
+                    class="cursor-pointer"/>
                 </div>
             </div>
             <div class="flex flex-col w-1/3">
@@ -88,6 +88,33 @@ function chamarMetodoDoFilho() {
 
 </template>
 <style scoped>
+.itens{
+    overflow-y: scroll;
+    padding-right: 10px;
+    height: 600px;
+}
+::-webkit-scrollbar {
+    padding: 3px;
+    width: 8px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+    background: rgb(255, 255, 255);
+    border-radius: 5px;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+    background: #A7DAFF;
+    border-radius: 5px;
+    width: 5px;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+    background: #7AC6FD;
+}
 .gray-color{
     color: rgba(0, 0, 0, 0.3);
 }

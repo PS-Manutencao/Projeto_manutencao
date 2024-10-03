@@ -43,6 +43,7 @@ const titles = [
             :title="text.text"
             :link="text.link"
         />
+        <span class="divisor"></span>
     </ul>
   </header>
 </template>
